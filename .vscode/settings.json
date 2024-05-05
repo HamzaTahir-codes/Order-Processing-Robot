@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "d:/Enigmatix/Robocorp/Order-Processing-Robot/order-processes-robot/."
+    ]
+}
